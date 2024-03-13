@@ -10,13 +10,13 @@
 
 
 // Replace with your network credentials
-const char* ssid = "GAYANGA";
-const char* password = "Gayangaa";
+const char* ssid = "#####";
+const char* password = "####";
 
-String chatId = "5157665426";
+String chatId = "######";
 
 //  Telegram BOT
-String BOTtoken = "6866460866:AAE_-QwQOXLMQngdnFiLWK4fbY3RsHnmIOY";
+String BOTtoken = "######################################";
 
 bool sendPhoto = false;
 
