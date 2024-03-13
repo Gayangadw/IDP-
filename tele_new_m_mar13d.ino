@@ -12,12 +12,12 @@ const int HX711_sck = 4;
 HX711_ADC LoadCell(HX711_dout, HX711_sck);
 
 
-const char* ssid     = "GAYANGA";
-const char* password = "Gayangaa";
+const char* ssid     = "########";
+const char* password = "############";
 
 
-#define BOT_TOKEN "6866460866:AAE_-QwQOXLMQngdnFiLWK4fbY3RsHnmIOY"  // Replace with your bot token
-#define CHAT_ID "5157665426"      
+#define BOT_TOKEN "##########################################"  // Replace with your bot token
+#define CHAT_ID "#######"      
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOT_TOKEN, client);
